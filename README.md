@@ -29,3 +29,7 @@
   
 </div>
 
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordHiperion&repo=agendaProject&theme=merko)](https://github.com/LordHiperion/agendaProject)
+
