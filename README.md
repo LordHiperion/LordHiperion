@@ -36,4 +36,8 @@
   
 </div>
 
+##
+
+![Snake animation](https://github.com/LordHiperion/LordHiperion/blob/output/github-snake-dark.svg)
+
 
