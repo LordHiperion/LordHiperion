@@ -2,9 +2,13 @@ name: Snake generator
 
 on:
   push:
+    branches:
+    - master
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" #  run every hour
+    - cron: "0 */24 * * *" #  run every hour
+
+    
 
 jobs:
   build:
