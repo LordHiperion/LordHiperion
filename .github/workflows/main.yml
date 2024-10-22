@@ -3,10 +3,10 @@ name: Snake generator
 on:
   push:
     branches:
-    - master
+    - main
   workflow_dispatch:
   schedule:
-    - cron: "0 */24 * * *" #  run every hour
+    - cron: "0 * * * *" #  run every hour
 
     
 
